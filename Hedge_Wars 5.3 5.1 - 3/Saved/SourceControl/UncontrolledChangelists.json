@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars/Content/Maps/Top_Down_Testlevel.umap",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars/Content/Blueprints/Top-Down-Character.uasset",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars/Content/Blueprints/Top-Down-Player_controler.uasset",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars/Content/Blueprints/Top-down-Game_mode.uasset",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3/Content/Maps/Top_Down_Testlevel.umap",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3/Content/Blueprints/Top-Down-Character.uasset",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3/Content/Maps/_GENERATED/fernandaws/Box_511431EF.uasset",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3/Content/Blueprints/Checkpoint.uasset",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3/Content/Blueprints/BP-enemy-AI.uasset",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.1/Content/Blueprints/Top-Down-Character.uasset",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.1/Content/Maps/Top_Down_Testlevel.umap",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/Blueprints/size.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/Maps/Top_Down_Testlevel.umap",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/Blueprints/Top-Down-Character.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/UI/Main_menu.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/Materials/EnemyMaterial.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/Blueprints/BP-enemy-AI.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/Materials/EnemyMaterial_Inst.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/Materials/size-pickup.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/UI/winSreen_widget.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/UI/how_to_play.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/UI/New_Project.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/UI/New_Project__1_.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/Materials/wallsMat.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/Materials/wallsMat_Inst.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/Materials/size-pickup_Inst.uasset",
+				"H:/Hedge_Wars 5.3 5.1 - 3/Content/UI/compl.uasset",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3/Content/Maps/Top_Down_Testlevel.umap",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3 5.1 - 3/Content/Blueprints/health_widget.uasset",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3 5.1 - 3/Content/Blueprints/Top-Down-Character.uasset",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3 5.1 - 3/Content/Maps/Top_Down_Testlevel.umap",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3 5.1 - 3/Content/Blueprints/BP-enemy-AI.uasset",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3 5.1 - 3/Content/Blueprints/size.uasset",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3 5.1 - 3/Content/Main_Menu_Map.umap",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3 5.1 - 3/Content/UI/game_design_front_cover__1_.uasset",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3 5.1 - 3/Content/UI/Main_menu.uasset",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3 5.1 - 3/Content/UI/MenuGamemode.uasset",
+				"C:/Users/fernandaws/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.3 5.1 - 3/Content/Blueprints/Pickup.uasset",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars 5.1/Content/Blueprints/Pickup.uasset",
+				"C:/Users/fernandaws.STUDENT/DSDN102-Tutorial-Studio-Engine-Version-master/DSDN102topdown/Hedge_Wars/Content/Top_Down_Testlevel.umap"
+			]
+		}
+	]
+}
